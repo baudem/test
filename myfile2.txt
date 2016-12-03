@@ -1,2 +1,2 @@
-Dit is een tweede file in het project
+Dit is een tweede file in het project als test
 
